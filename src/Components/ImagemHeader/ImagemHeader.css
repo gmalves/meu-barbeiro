@@ -1,0 +1,10 @@
+.imagem-principal{
+    position: relative;
+    background-size: cover;
+}
+
+.imagem-header {
+    object-fit: cover;
+    height: 250px;
+    object-position: 0 60%;
+  }
